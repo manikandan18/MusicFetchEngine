@@ -4,4 +4,4 @@ based on the Public key. The AJAX and JQuery combination is used as a client. Th
 the videos.
 
 The RESTful API is posted in Google Cloud with Google APP Engine SDK plugin for Eclipse. The link is 
-http://4-dot-mani-project-1808.appspot.com
+https://music-search-youtube.appspot.com/
